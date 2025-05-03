@@ -22,7 +22,7 @@
 
 ### Testing
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-[Postman](https://img.shields.io/badge/POSTMAN-orange?style=flat&logo=postman&logoColor=white&color=orange)
+![Postman](https://img.shields.io/badge/POSTMAN-orange?style=flat&logo=postman&logoColor=white&color=orange)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
